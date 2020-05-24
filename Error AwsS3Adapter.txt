@@ -1,0 +1,5 @@
+#Class 'League\Flysystem\AwsS3v3\AwsS3Adapter' not found
+
+composer require league/flysystem-aws-s3-v3
+
+https://laracasts.com/discuss/channels/laravel/class-leagueflysystemawss3v3awss3adapter-not-found?page=1

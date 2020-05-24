@@ -1,5 +1,7 @@
 #Enter e ingresamos contraseña
 ssh root@134.209.248.72
 
+iOL0EWUfXgER
+
 Nota:Necesitamos una consola para acceder:https://git-scm.com/
 

@@ -1,0 +1,4 @@
+#Refrescar Permisos Repositorio
+
+sudo chown -R www-data:www-data  nombre_de_carpeta
+sudo chmod 755 -R nombre_de_carpeta

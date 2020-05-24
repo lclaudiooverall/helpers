@@ -1,0 +1,11 @@
+CREATE USER 'demo'@'%' IDENTIFIED BY 'xxxxxxx';
+
+GRANT ALL PRIVILEGES ON * . * TO 'demo'@'%';
+
+FLUSH PRIVILEGES;
+
+Documentación
+https://www.digitalocean.com/community/tutorials/crear-un-nuevo-usuario-y-otorgarle-permisos-en-mysql-es
+
+Contraseña Segura
+

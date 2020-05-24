@@ -1,0 +1,5 @@
+#limpiar pantalla
+clear
+
+#salir
+exit

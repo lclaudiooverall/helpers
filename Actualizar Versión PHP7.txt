@@ -10,6 +10,9 @@ apt-get install php7.3
 
 php -v
 
+#documentacion
+https://thishosting.rocks/install-php-on-ubuntu/
+
 #Activar Versión
 sudo a2enmod php7.3
 sudo a2dismod php7.2

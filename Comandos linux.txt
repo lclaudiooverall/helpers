@@ -15,3 +15,10 @@ ls -l
 
 #Eliminar de forma permanete una carpeta
 rm -R nombre de la carpeta
+
+
+#Ubicación de virtual host=> asociar un dominio a una carpeta(dentro de la carpteta publicadora)
+cd /etc/apache2/sites-available
+
+cp archivo_original.conf  archivo_nuevo.conf
+

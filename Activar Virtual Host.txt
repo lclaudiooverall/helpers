@@ -1,0 +1,7 @@
+#Activar Virtual Host
+sudo a2ensite perutecfacturacionelectronica.info.conf
+
+sudo a2ensite clientes.perutecfacturacionelectronica.info.conf
+
+#Reinicar Apache
+service apache2 restart

@@ -3,3 +3,15 @@ clear
 
 #salir
 exit
+
+
+#carpeta publicadora
+cd /var/www
+
+#listar la información de la carpeta
+ls
+ls -l 
+
+
+#Eliminar de forma permanete una carpeta
+rm -R nombre de la carpeta

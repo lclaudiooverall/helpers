@@ -1,0 +1,11 @@
+"language":{
+
+ "url":"{{  asset('js/spanish.json') }}"
+
+},
+order:[[0,'ASC']],
+destroy:true,
+bAutoWidth: false,
+deferRender:true,
+iDisplayLength: 25,
+bProcessing: true,

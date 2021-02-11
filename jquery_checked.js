@@ -1,4 +1,5 @@
-$(".micheckbox").on( 'change', function() {
+$(".micheckbox").on( 'change', function(e) {
+    e.stopImmediatePropagation();
     if( $(this).is(':checked') ) {
         // Hacer algo si el checkbox ha sido seleccionado
         alert("El checkbox con valor " + $(this).val() + " ha sido seleccionado");

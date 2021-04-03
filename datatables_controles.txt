@@ -3,7 +3,7 @@
  "url":"{{  asset('js/spanish.json') }}"
 
 },
-order:[[0,'ASC']],
+order:[[0,'asc']],
 destroy:true,
 bAutoWidth: false,
 deferRender:true,
